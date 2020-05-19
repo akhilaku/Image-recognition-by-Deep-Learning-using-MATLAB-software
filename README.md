@@ -10,3 +10,5 @@ Deeplearning using the High-Level Heavy Programming language like MATLAB can giv
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/predictionP2.jpg)
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Investigation%20Prediction%20bargraph.jpg)
+
+![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/bargraph%20of%20recognized%20image(predicted).jpg)
