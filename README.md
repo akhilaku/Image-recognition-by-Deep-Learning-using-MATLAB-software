@@ -11,4 +11,6 @@ Deeplearning using the High-Level Heavy Programming language like MATLAB can giv
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Investigation%20Prediction%20bargraph.jpg)
 
+Bar Graph showing the accuracy and bar graph score of the result that the image is of a "Sea Shore". 
+Hurray!!!The image recognized as Seashore.
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/bargraph%20of%20recognized%20image(predicted).jpg)
