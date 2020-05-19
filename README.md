@@ -14,6 +14,7 @@ In this image classifier using Deep Learning with MATLAB Software, we are using 
 TECHNOLOGIES USED
 
 Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the software used is MATLAB.
+IMAGES FOR RECOGNITION
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/1.jpg)
 
