@@ -15,6 +15,7 @@ TECHNOLOGIES USED
 
 Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the software used is MATLAB.
 
+IMAGES FOR RECOGNITION
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/1.jpg)
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Pre-trained%20network-%20AlexNet%20layers.jpg)
