@@ -20,7 +20,11 @@ Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the so
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Pre-trained%20network-%20AlexNet%20layers.jpg)
 
+### Predicting The Image 
+
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/predictionP2.jpg)
+
+### Bar Graph Score
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Investigation%20Prediction%20bargraph.jpg)
 
