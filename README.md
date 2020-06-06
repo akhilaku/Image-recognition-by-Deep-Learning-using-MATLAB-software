@@ -14,21 +14,32 @@ In this image classifier using Deep Learning with MATLAB Software, we are using 
 ### TECHNOLOGIES USED
 
 Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the software used is MATLAB.
+
+---
+
 ### IMAGES FOR RECOGNITION
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/1.jpg)
 
+---
+
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Pre-trained%20network-%20AlexNet%20layers.jpg)
+
+---
 
 ### Predicting The Image 
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/predictionP2.jpg)
+
+---
 
 ### Bar Graph Score
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Investigation%20Prediction%20bargraph.jpg)
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/bargraph%20of%20recognized%20image(predicted).jpg)
+
+---
 
 ### Project Admin
 
