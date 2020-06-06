@@ -28,7 +28,5 @@ Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the so
 
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/Investigation%20Prediction%20bargraph.jpg)
 
-### Bar Graph showing the accuracy and bar graph score of the result that the image is of a "Sea Shore". 
-### Hurray!!!The image recognized as Seashore.
-
 ![](https://github.com/akhilaku/Image-recognition-by-Deep-Learning-using-MATLAB-softwares/blob/master/bargraph%20of%20recognized%20image(predicted).jpg)
+
