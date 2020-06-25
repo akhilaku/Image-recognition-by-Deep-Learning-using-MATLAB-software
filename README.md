@@ -1,4 +1,4 @@
-# Image-recognition-by-Deep-Learning-using-MATLAB-softwares
+# Image-recognition-by-Deep-Learning-using-MATLAB-softwares-and-AlexNet
 Using Deep Learning for recognizing an image using MATLAB Software.
 It uses a pre-trained network AlexNet, which is used to recognize or predict an image with high accuracy rate.
 Deeplearning using the High-Level Heavy Programming language like MATLAB can give more accurate result. This is an simple MATLAB program and using AlexNet pre-trained network for image classification using Deep Learning.
@@ -41,5 +41,18 @@ Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the so
 
 ---
 
+### Project Admin
+
+| ![](https://github.com/akhildasks/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/akhildasKs%20(2).jpg) |
+| :------------------------: |
+| **AKHILDAS KS**  |
+
+[![GitHub followers](https://img.shields.io/github/followers/akhildasks.svg?label=Follow%20@akhilaku&style=social)](https://github.com/akhildasks/) [![Twitter Follow](https://img.shields.io/twitter/follow/KsAkhildas?style=social)](https://twitter.com/KsAkhildas)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/akhildasks/)
+
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+---
 
 
