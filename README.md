@@ -43,7 +43,7 @@ Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the so
 
 ### Project Admin
 
-| ![](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/akhilaku%20(2).jpg) |
+| ![](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/akhildasks%20(2).jpg) |
 | :------------------------: |
 | **AKHILDAS KS**  |
 
