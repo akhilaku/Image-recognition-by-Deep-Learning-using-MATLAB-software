@@ -43,11 +43,11 @@ Hardware used is Intel Core i3 with Windows 7 as Operating System(OS) and the so
 
 ### Project Admin
 
-| ![](https://github.com/akhildasks/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/akhildasKs%20(2).jpg) |
+| ![](https://github.com/akhilaku/Image-Recognition-and-Classification-Device-for-Blind-People-Using-Intel-NCS-2/blob/master/akhilaku%20(2).jpg) |
 | :------------------------: |
 | **AKHILDAS KS**  |
 
-[![GitHub followers](https://img.shields.io/github/followers/akhildasks.svg?label=Follow%20@akhilaku&style=social)](https://github.com/akhildasks/) [![Twitter Follow](https://img.shields.io/twitter/follow/KsAkhildas?style=social)](https://twitter.com/KsAkhildas)
+[![GitHub followers](https://img.shields.io/github/followers/akhildasks.svg?label=Follow%20@akhilaku&style=social)](https://github.com/akhilaku/) [![Twitter Follow](https://img.shields.io/twitter/follow/KsAkhildas?style=social)](https://twitter.com/KsAkhildas)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/akhildasks/)
 
